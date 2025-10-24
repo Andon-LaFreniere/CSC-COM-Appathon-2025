@@ -2,14 +2,14 @@
 
 ## Team Members
 
-Venkat Sundar Gadepalli
-Andon Lafreniere
-Sanvi Chitturi
-Krish Patel
-Hedya Sangam
-Varsha Viswapriyan
-Varun Viswapriyan
-Matt Wang
+Venkat Sundar Gadepalli\
+Andon Lafreniere\
+Sanvi Chitturi\
+Krish Patel\
+Hedya Sangam\
+Varsha Viswapriyan\
+Varun Viswapriyan\
+Matt Wang\
 
 ## The Idea (Brief)
 
