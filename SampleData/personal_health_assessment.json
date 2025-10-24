@@ -1,0 +1,300 @@
+{
+    "patients": [
+        {
+            "MRN": "P001",
+            "name": "John Smith",
+            "age": 35,
+            "gender": "male",
+            "ethnicity": "Caucasian",
+            "vital_statistics": {
+                "height_cm": 178,
+                "weight_kg": 75,
+                "BMI": 23.7,
+                "BMI_status": "Normal"
+            },
+            "medical_history": {
+                "chronic_conditions": [
+                    "None"
+                ],
+                "past_surgeries": [
+                    "Appendectomy (2015)"
+                ],
+                "hospitalizations": [
+                    "None"
+                ]
+            },
+            "family_history": {
+                "heart_disease": "Father (age 60)",
+                "diabetes": "None",
+                "cancer": "Maternal grandmother (breast cancer)"
+            },
+            "medications": {
+                "prescriptions": [
+                    "None"
+                ],
+                "supplements": [
+                    "Vitamin D"
+                ]
+            },
+            "allergies": {
+                "drug": [
+                    "None"
+                ],
+                "food": [
+                    "None"
+                ],
+                "environmental": [
+                    "Pollen"
+                ]
+            },
+            "immunizations": {
+                "flu": "2025-09-15",
+                "covid19": "2024-03-10",
+                "tetanus": "2023-06-20"
+            },
+            "social": {
+                "occupation": "Software Engineer",
+                "marital_status": "Married",
+                "living_situation": "With family"
+            },
+            "lifestyle": {
+                "smoking_status": "Never",
+                "alcohol_consumption": "Occasional",
+                "caffeine_intake": "2 cups coffee/day",
+                "exercise_frequency": "5 days/week",
+                "steps_per_day": 9000
+            },
+            "dietary_habits": {
+                "meal_pattern": "3 balanced meals/day",
+                "vegetable_servings": 4,
+                "fruit_servings": 2,
+                "processed_food": "Low",
+                "hydration_liters": 2.5,
+                "protein_g": 80,
+                "carbohydrates_g": 250,
+                "fat_g": 70,
+                "fiber_g": 30
+            },
+            "bowel_movement": {
+                "frequency": "Once daily",
+                "consistency": "Type 4 (Smooth, soft)"
+            },
+            "stress_level": {
+                "status": "Low",
+                "cause": "Work manageable"
+            },
+            "sleep": {
+                "hours": 7,
+                "quality": "Good"
+            },
+            "mental_health": {
+                "PHQ9_score": 2,
+                "GAD7_score": 1
+            },
+            "screen_time_hours": 2,
+            "preventive_care": {
+                "last_physical_exam": "2025-08-10",
+                "last_dental_check": "2025-06-15",
+                "last_eye_exam": "2024-12-20"
+            }
+        },
+        {
+            "MRN": "P002",
+            "name": "Maria Garcia",
+            "age": 42,
+            "gender": "female",
+            "ethnicity": "Hispanic",
+            "vital_statistics": {
+                "height_cm": 163,
+                "weight_kg": 68,
+                "BMI": 25.6,
+                "BMI_status": "Overweight"
+            },
+            "medical_history": {
+                "chronic_conditions": [
+                    "Hypertension"
+                ],
+                "past_surgeries": [
+                    "Cesarean section (2010)"
+                ],
+                "hospitalizations": [
+                    "None"
+                ]
+            },
+            "family_history": {
+                "heart_disease": "Mother (age 65)",
+                "diabetes": "Brother",
+                "cancer": "None"
+            },
+            "medications": {
+                "prescriptions": [
+                    "Lisinopril"
+                ],
+                "supplements": [
+                    "Multivitamin"
+                ]
+            },
+            "allergies": {
+                "drug": [
+                    "Penicillin"
+                ],
+                "food": [
+                    "Shellfish"
+                ],
+                "environmental": [
+                    "Dust"
+                ]
+            },
+            "immunizations": {
+                "flu": "2025-09-20",
+                "covid19": "2024-04-15",
+                "tetanus": "2023-07-10"
+            },
+            "social": {
+                "occupation": "Teacher",
+                "marital_status": "Married",
+                "living_situation": "With family"
+            },
+            "lifestyle": {
+                "smoking_status": "Former smoker",
+                "alcohol_consumption": "Moderate",
+                "caffeine_intake": "1 cup coffee/day",
+                "exercise_frequency": "3 days/week",
+                "steps_per_day": 6000
+            },
+            "dietary_habits": {
+                "meal_pattern": "2 main meals + snacks",
+                "vegetable_servings": 3,
+                "fruit_servings": 1,
+                "processed_food": "Moderate",
+                "hydration_liters": 2,
+                "protein_g": 65,
+                "carbohydrates_g": 220,
+                "fat_g": 75,
+                "fiber_g": 25
+            },
+            "bowel_movement": {
+                "frequency": "Irregular (every 2 days)",
+                "consistency": "Type 3 (Sausage with cracks)"
+            },
+            "stress_level": {
+                "status": "Moderate",
+                "cause": "Work-life balance"
+            },
+            "sleep": {
+                "hours": 6,
+                "quality": "Fair"
+            },
+            "mental_health": {
+                "PHQ9_score": 5,
+                "GAD7_score": 4
+            },
+            "screen_time_hours": 4,
+            "preventive_care": {
+                "last_physical_exam": "2025-07-15",
+                "last_dental_check": "2025-05-20",
+                "last_eye_exam": "2024-11-10"
+            }
+        },
+        {
+            "MRN": "P003",
+            "name": "Robert Johnson",
+            "age": 58,
+            "gender": "male",
+            "ethnicity": "African American",
+            "vital_statistics": {
+                "height_cm": 175,
+                "weight_kg": 92,
+                "BMI": 30.0,
+                "BMI_status": "Obese"
+            },
+            "medical_history": {
+                "chronic_conditions": [
+                    "Type 2 Diabetes",
+                    "Hypertension"
+                ],
+                "past_surgeries": [
+                    "Knee replacement (2020)"
+                ],
+                "hospitalizations": [
+                    "Diabetic ketoacidosis (2021)"
+                ]
+            },
+            "family_history": {
+                "heart_disease": "Father",
+                "diabetes": "Mother",
+                "cancer": "None"
+            },
+            "medications": {
+                "prescriptions": [
+                    "Metformin",
+                    "Atorvastatin"
+                ],
+                "supplements": [
+                    "Omega-3"
+                ]
+            },
+            "allergies": {
+                "drug": [
+                    "None"
+                ],
+                "food": [
+                    "None"
+                ],
+                "environmental": [
+                    "None"
+                ]
+            },
+            "immunizations": {
+                "flu": "2025-09-10",
+                "covid19": "2024-02-20",
+                "tetanus": "2023-05-15"
+            },
+            "social": {
+                "occupation": "Retired",
+                "marital_status": "Widowed",
+                "living_situation": "Alone"
+            },
+            "lifestyle": {
+                "smoking_status": "Current smoker",
+                "alcohol_consumption": "Heavy",
+                "caffeine_intake": "3 cups coffee/day",
+                "exercise_frequency": "Sedentary",
+                "steps_per_day": 2000
+            },
+            "dietary_habits": {
+                "meal_pattern": "Irregular, high-calorie meals",
+                "vegetable_servings": 1,
+                "fruit_servings": 0,
+                "processed_food": "High",
+                "hydration_liters": 1.5,
+                "protein_g": 60,
+                "carbohydrates_g": 300,
+                "fat_g": 100,
+                "fiber_g": 15
+            },
+            "bowel_movement": {
+                "frequency": "Every 3 days",
+                "consistency": "Type 2 (Lumpy and hard)"
+            },
+            "stress_level": {
+                "status": "High",
+                "cause": "Financial and health concerns"
+            },
+            "sleep": {
+                "hours": 5,
+                "quality": "Poor"
+            },
+            "mental_health": {
+                "PHQ9_score": 12,
+                "GAD7_score": 10
+            },
+            "screen_time_hours": 6,
+            "preventive_care": {
+                "last_physical_exam": "2025-06-10",
+                "last_dental_check": "2025-04-05",
+                "last_eye_exam": "2024-10-15"
+            }
+        }
+    ]
+}
