@@ -9,7 +9,7 @@ Krish Patel\
 Hedya Sangam\
 Varsha Viswapriyan\
 Varun Viswapriyan\
-Matt Wang\
+Matt Wang
 
 ## The Idea (Brief)
 
