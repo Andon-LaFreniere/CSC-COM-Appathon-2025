@@ -1,0 +1,62 @@
+{
+  "brain": {
+    "display_name": "Brain",
+    "tests": [],
+    "svg_ids": ["brain", "cerebellum", "cerebral cortex", "prefrontal cortex", "frontal cortex", "temporal lobe", "hippocampus", "amygdala", "cerebellar hemisphere"],
+    "color": "#ff6b6b"
+  },
+  "thyroid": {
+    "display_name": "Thyroid", 
+    "tests": ["TSH", "Free T4"],
+    "svg_ids": ["thyroid gland"],
+    "color": "#ffa726"
+  },
+  "heart": {
+    "display_name": "Heart",
+    "tests": ["LDL", "HDL", "Triglycerides", "Total Cholesterol"],
+    "svg_ids": ["heart", "atrial appendage", "left atrium", "left ventricle", "pulmonary valve", "mitral valve", "tricuspid valve", "coronary artery"],
+    "color": "#ef5350"
+  },
+  "lungs": {
+    "display_name": "Lungs",
+    "tests": [],
+    "svg_ids": ["lung", "bronchus", "trachea", "pleura"],
+    "color": "#42a5f5"
+  },
+  "liver": {
+    "display_name": "Liver",
+    "tests": ["ALT", "AST", "Total Cholesterol", "Triglycerides"],
+    "svg_ids": ["liver", "gall bladder"],
+    "color": "#66bb6a"
+  },
+  "pancreas": {
+    "display_name": "Pancreas",
+    "tests": ["Glucose", "HbA1c"],
+    "svg_ids": ["pancreas"],
+    "color": "#ab47bc"
+  },
+  "kidneys": {
+    "display_name": "Kidneys", 
+    "tests": ["Creatinine", "BUN"],
+    "svg_ids": ["kidney", "renal cortex", "bladder"],
+    "color": "#5c6bc0"
+  },
+  "bones": {
+    "display_name": "Bones",
+    "tests": ["Vitamin D"],
+    "svg_ids": ["bone", "bone marrow", "cartilage"],
+    "color": "#8d6e63"
+  },
+  "digestive": {
+    "display_name": "Digestive System",
+    "tests": [],
+    "svg_ids": ["colon", "stomach", "duodenum", "esophagus", "small intestine", "caecum", "appendix", "ileum", "rectum", "gastroesophageal junction"],
+    "color": "#78909c"
+  },
+  "reproductive": {
+    "display_name": "Reproductive System",
+    "tests": [],
+    "svg_ids": ["ovary", "endometrium", "fallopian tube", "uterus", "uterine cervix", "vagina", "ectocervix", "breast"],
+    "color": "#ec407a"
+  }
+}

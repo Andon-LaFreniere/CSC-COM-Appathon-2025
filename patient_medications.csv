@@ -1,0 +1,7 @@
+patient_id,medication_name,start_date,end_date,dose,frequency,reason
+P001,Vitamin D Supplement,2022-01-15,,1000 IU,Daily,Vitamin D maintenance
+P002,Ibuprofen,2021-06-10,,200 mg,As needed,Back pain
+P002,Omeprazole,2021-06-10,,20 mg,Daily,Acid reflux
+P003,Atorvastatin,2020-11-05,,20 mg,Daily,High cholesterol
+P003,Lisinopril,2020-11-05,,10 mg,Daily,Hypertension
+P003,Ibuprofen,2019-08-12,,400 mg,As needed,Arthritis pain

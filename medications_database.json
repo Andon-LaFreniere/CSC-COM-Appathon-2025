@@ -1,0 +1,76 @@
+{
+  "medications": {
+    "Atorvastatin": {
+      "drug_class": "Statin",
+      "components": ["Atorvastatin calcium"],
+      "purpose": "Cholesterol management",
+      "common_side_effects": ["Muscle pain", "Liver enzyme elevation", "Digestive issues"],
+      "serious_side_effects": ["Rhabdomyolysis", "Liver damage", "Diabetes risk"],
+      "monitoring_required": ["Liver enzymes (ALT/AST)", "Creatine kinase", "Blood glucose"],
+      "contraindications": ["Active liver disease", "Pregnancy", "Concurrent use with certain antibiotics"]
+    },
+    "Metformin": {
+      "drug_class": "Biguanide",
+      "components": ["Metformin hydrochloride"],
+      "purpose": "Diabetes management",
+      "common_side_effects": ["Gastrointestinal upset", "Diarrhea", "Nausea"],
+      "serious_side_effects": ["Lactic acidosis", "Vitamin B12 deficiency", "Kidney stress"],
+      "monitoring_required": ["Kidney function (Creatinine/BUN)", "Vitamin B12", "Liver function"],
+      "contraindications": ["Severe kidney disease", "Metabolic acidosis", "Dehydration"]
+    },
+    "Lisinopril": {
+      "drug_class": "ACE Inhibitor",
+      "components": ["Lisinopril"],
+      "purpose": "Blood pressure control",
+      "common_side_effects": ["Dry cough", "Dizziness", "Headache"],
+      "serious_side_effects": ["Angioedema", "Kidney impairment", "Hyperkalemia"],
+      "monitoring_required": ["Kidney function", "Potassium levels", "Blood pressure"],
+      "contraindications": ["Pregnancy", "History of angioedema", "Bilateral renal artery stenosis"]
+    },
+    "Levothyroxine": {
+      "drug_class": "Thyroid hormone",
+      "components": ["Levothyroxine sodium"],
+      "purpose": "Thyroid hormone replacement",
+      "common_side_effects": ["Palpitations", "Insomnia", "Weight loss"],
+      "serious_side_effects": ["Thyroid storm", "Cardiac arrhythmias", "Osteoporosis"],
+      "monitoring_required": ["TSH", "Free T4", "Heart rate"],
+      "contraindications": ["Recent heart attack", "Uncontrolled hyperthyroidism", "Adrenal insufficiency"]
+    },
+    "Warfarin": {
+      "drug_class": "Anticoagulant",
+      "components": ["Warfarin sodium"],
+      "purpose": "Blood thinner",
+      "common_side_effects": ["Bruising", "Bleeding", "Hair loss"],
+      "serious_side_effects": ["Severe bleeding", "Skin necrosis", "Purple toe syndrome"],
+      "monitoring_required": ["INR", "CBC", "Liver function"],
+      "contraindications": ["Active bleeding", "Recent surgery", "Uncontrolled hypertension"]
+    },
+    "Ibuprofen": {
+      "drug_class": "NSAID",
+      "components": ["Ibuprofen"],
+      "purpose": "Pain relief, anti-inflammatory",
+      "common_side_effects": ["Stomach upset", "Heartburn", "Dizziness"],
+      "serious_side_effects": ["GI bleeding", "Kidney damage", "Increased blood pressure"],
+      "monitoring_required": ["Kidney function", "Liver enzymes", "CBC"],
+      "contraindications": ["Peptic ulcer disease", "Kidney disease", "Heart failure"]
+    },
+    "Omeprazole": {
+      "drug_class": "Proton Pump Inhibitor",
+      "components": ["Omeprazole"],
+      "purpose": "Acid reflux treatment",
+      "common_side_effects": ["Headache", "Diarrhea", "Nausea"],
+      "serious_side_effects": ["Vitamin B12 deficiency", "Magnesium deficiency", "Bone fracture risk"],
+      "monitoring_required": ["Magnesium levels", "Vitamin B12", "Bone density"],
+      "contraindications": ["Concurrent use with certain HIV medications", "Severe liver disease"]
+    },
+    "Vitamin D Supplement": {
+      "drug_class": "Vitamin Supplement",
+      "components": ["Cholecalciferol"],
+      "purpose": "Vitamin D deficiency treatment",
+      "common_side_effects": ["Nausea", "Constipation", "Dry mouth"],
+      "serious_side_effects": ["Vitamin D toxicity", "Hypercalcemia", "Kidney stones"],
+      "monitoring_required": ["Vitamin D levels", "Calcium levels", "Kidney function"],
+      "contraindications": ["Hypercalcemia", "Vitamin D toxicity", "Sarcoidosis"]
+    }
+  }
+}

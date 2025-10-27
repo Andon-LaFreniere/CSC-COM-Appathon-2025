@@ -1,0 +1,70 @@
+{
+  "patients": {
+    "P001": {
+      "id": "P001",
+      "name": "John Smith",
+      "general_info": {
+        "age": 35,
+        "gender": "male",
+        "height_cm": 178,
+        "weight_kg": 75,
+        "bmi": 23.7,
+        "ethnicity": "Caucasian",
+        "smoking_status": "Never",
+        "alcohol_consumption": "Occasional",
+        "exercise_frequency": "5 days/week",
+        "family_history": ["None significant"]
+      },
+      "current_medications": ["Vitamin D Supplement"],
+      "category": "Healthy"
+    },
+    "P004": {
+  "name": "Sarah Carter",
+  "general_info": {
+    "age": 47,
+    "gender": "female",
+    "height_cm": 165,
+    "weight_kg": 68,
+    "bmi": 25
+  },
+  "current_medications": ["Levothyroxine"]
+},
+    "P002": {
+      "id": "P002",
+      "name": "Maria Garcia",
+      "general_info": {
+        "age": 42,
+        "gender": "female", 
+        "height_cm": 163,
+        "weight_kg": 68,
+        "bmi": 25.6,
+        "ethnicity": "Hispanic",
+        "smoking_status": "Former smoker",
+        "alcohol_consumption": "Moderate",
+        "exercise_frequency": "3 days/week",
+        "family_history": ["Type 2 Diabetes", "Hypertension"]
+      },
+      "current_medications": ["Ibuprofen", "Omeprazole"],
+      "category": "Borderline"
+    },
+    "P003": {
+      "id": "P003",
+      "name": "Robert Johnson",
+      "general_info": {
+        "age": 58,
+        "gender": "male",
+        "height_cm": 175,
+        "weight_kg": 92,
+        "bmi": 30.0,
+        "ethnicity": "African American",
+        "smoking_status": "Current smoker",
+        "alcohol_consumption": "Heavy",
+        "exercise_frequency": "Sedentary",
+        "family_history": ["Heart Disease", "Stroke", "Hypertension"]
+      },
+      "current_medications": ["Atorvastatin", "Lisinopril", "Ibuprofen"],
+      "category": "Cardiovascular"
+    }
+
+  }
+}

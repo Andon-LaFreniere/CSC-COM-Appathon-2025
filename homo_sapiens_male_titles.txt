@@ -1,0 +1,76 @@
+human body features
+Sjef
+text : Kevin (tsaitgaist) REDON
+cerebral cortex
+pleura
+brain
+heart
+breast
+thyroid gland
+adrenal gland
+lymph node
+bone marrow
+adipose tissue
+skeletal muscle
+leukocyte
+frontal cortex
+temporal lobe
+prefrontal cortex
+pituitary gland
+atrial appendage
+aorta
+coronary artery
+gastroesophageal junction
+left ventricle
+hippocampus
+hippocampus
+caecum
+ileum
+rectum
+nose
+tongue
+left atrium
+pulmonary valve
+mitral valve
+penis
+vas deferens
+seminal vesicle
+testis
+epididymis
+eye
+nasal septum
+oral cavity
+tonsil
+nasal pharynx
+lung
+spinal cord
+amygdala
+trachea
+throat
+bronchus
+tricuspid valve
+diaphragm
+liver
+stomach
+spleen
+duodenum
+gall bladder
+pancreas
+colon
+small intestine
+appendix
+smooth muscle
+urinary bladder
+prostate gland
+nerve
+cerebellum
+cerebellar hemisphere
+kidney
+renal cortex
+bone
+cartilage
+esophagus
+salivary gland
+parotid gland
+submandibular gland
+skin

@@ -1,0 +1,82 @@
+parotid gland
+adipose tissue
+heart
+smooth muscle
+brain
+breast
+adrenal gland
+pancreas
+liver
+colon
+lymph node
+bone marrow
+skeletal muscle
+ovary
+leukocyte
+blood
+artery
+B cell
+T cell
+natural killer cell
+monocyte
+platelet
+bladder
+stomach
+duodenum
+esophagus
+gall bladder
+spleen
+small intestine
+placenta
+salivary gland
+endometrium
+fallopian tube
+uterus
+uterine cervix
+vagina
+aorta
+nerve
+pituitary gland
+atrial appendage
+ectocervix
+gastroesophageal junction
+hippocampus
+hippocampus
+caecum
+appendix
+ileum
+left atrium
+left ventricle
+pulmonary valve
+mitral valve
+diaphragm
+pleura
+bone
+cartilage
+bronchus
+trachea
+lung
+throat
+rectum
+nasal septum
+nasal pharynx
+oral cavity
+tongue
+tonsil
+eye
+retina
+cerebellum
+cerebellar hemisphere
+prefrontal cortex
+frontal cortex
+nose
+temporal lobe
+cerebral cortex
+amygdala
+kidney
+renal cortex
+coronary artery
+submandibular gland
+tricuspid valve
+thyroid gland
+skin
