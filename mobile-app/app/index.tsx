@@ -1,15 +1,18 @@
 import React from "react";
 import { SafeAreaView, View, Text, Pressable, StyleSheet, ScrollView, PressableProps } from "react-native";
+import { useAuth } from "../context/AuthContext";
 import { Link } from "expo-router";
 import { MaterialCommunityIcons, MaterialIcons } from "@expo/vector-icons";
 
 export default function Index() {
+  const { currentPatientName } = useAuth();
+  const patientName = currentPatientName ?? "Patient";
   return (
     <SafeAreaView style={styles.safeAreaContainer}>
       <ScrollView contentContainerStyle={styles.scrollContent} showsVerticalScrollIndicator={false}>
         <View style={styles.container}>
           <Pressable style={styles.patientHeader}>
-            <Text style={styles.patientHeaderText}>Patient Name</Text>
+            <Text style={styles.patientHeaderText}>{patientName}</Text>
           </Pressable>
 
           <View style={styles.gridContainer}>
